@@ -18,7 +18,7 @@ for linha in pagina_clientes.iter_rows(min_row=2):
     nome = linha[0].value
     telefone = linha[1].value
     vencimento = datetime.now()
-    mensagem = (f'Olá {nome} seu preço da agiotagem pode ser pago no {vencimento.strftime('%d/%m/%Y')} \n A chave pix é: 24998472326')
+    mensagem = (f'Olá {nome} sua prestação pode ser pago no {vencimento.strftime('%d/%m/%Y')} \n A chave pix é: ')
     try:
         link_mensagem_whatsapp = f'https://web.whatsapp.com/send?phone={telefone}&text={quote(mensagem)}'
         webbrowser.open(link_mensagem_whatsapp)
