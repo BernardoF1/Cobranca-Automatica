@@ -31,11 +31,9 @@ O script funciona da seguinte forma:
 Os seguintes comandos são necessários no terminal:
 ``` bash
 # Entrar na pasta
-
 cd Cobranca-automatica
 
 # Rodar o script
-
 python main.py
 
 ```
