@@ -1,4 +1,4 @@
-# Cobrança Automatica
+# Cobrança Automática
 
 Este programa foi feito para otimizar o tempo daqueles que fornecem algum tipo de serviço, automatizando a cobrança dos serviços.
 
