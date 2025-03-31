@@ -1,10 +1,10 @@
 # Cobrança Automatica
 
-Como o próprio nome já diz, este programa foi feito para otimizar o tempo daqueles que servem algum tipo de serviço, e precisam ficar cobrando mensalmente ou semanalmente.
+Como o próprio nome já diz, este programa foi feito para otimizar o tempo daqueles que fornecem algum tipo de serviço, e precisam ficar cobrando mensalmente ou semanalmente.
 
 ## Instalação
 
-Para instalar o projeto, você precisa de pelo menos do python 3.13 instalado na sua máquina.
+Para instalar o projeto, você precisa de pelo menos do [Python 3.13](https://www.python.org/downloads/) instalado na sua máquina. (caso não tenha instalado só clicar aonde está escrito Python)
 Agora no terminal:
 ``` bash
 # Clone o repositorio
@@ -26,7 +26,7 @@ O script funciona da seguinte forma:
 ## Para iniciar
 
 Os seguintes comandos são necessários no terminal:
-```
+``` bash
 # Entrar na pasta
 
 cd Cobranca-automatica
