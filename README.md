@@ -1,6 +1,6 @@
 # Cobrança Automatica
 
-Como o próprio nome já diz, este programa foi feito para otimizar o tempo daqueles que fornecem algum tipo de serviço, e precisam ficar cobrando mensalmente ou semanalmente.
+Este programa foi feito para otimizar o tempo daqueles que fornecem algum tipo de serviço, automatizando a cobrança dos serviços.
 
 ## Instalação
 
