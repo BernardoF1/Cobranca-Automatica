@@ -24,6 +24,7 @@ O script funciona da seguinte forma:
 1. No Arquivo Clientes.xlsx você vai colocar o nome da pessoa, o telefone dela e a data que ela tem que pagar.
 2. Em main.py na váriavél mensagem, você pode modificar a mensagem ao seu gosto.
      1. "A mensagem padrão é: (Olá {nome_da_pessoa} sua prestação pode ser pago no {dia_do_vencimento} \n A chave pix é: {seu_pix})"
+3. Caso ele não consiga mandar a mensagem por algum motivo, ele escreve em um arquivo csv o nome e telefone do contato que ele não conseguiu mandar mensagem.
 
 ## Para iniciar
 
@@ -39,8 +40,7 @@ python main.py
 
 ```
 
-O ideal após iniciar o script, é deixar ele funcionando até rodar todos os contatos então neste tempo não mexa no computador para evitar bugar o script.
+O ideal após iniciar o script, é deixar ele funcionando até rodar todos os contatos, então neste tempo não mexa no computador para evitar bugar o script.
 
-## 
 
-Caso ele não consiga mandar a mensagem por algum motivo, ele escreve em um arquivo csv com o nome do contato que ele não conseguiu além do número de telefone.
+## Contribuições 
