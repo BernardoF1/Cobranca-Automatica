@@ -16,3 +16,8 @@ cd Cobranca-automatica
 # Instale as bibliotecas necessarias
 pip install requirements.txt
 ```
+## Como funciona
+
+O script funciona da seguinte forma:
+
+1. 
