@@ -40,7 +40,7 @@ python main.py
 
 ```
 
-O ideal após iniciar o script, é deixar ele funcionando até rodar todos os contatos, então neste tempo não mexa no computador para evitar bugar o script.
+O ideal após iniciar o script, é deixar ele funcionando até rodar todos os contatos, então neste tempo não mexa no computador para evitar algum possivel bug.
 
 
 ## Contribuições 
