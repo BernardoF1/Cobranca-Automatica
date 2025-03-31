@@ -41,4 +41,4 @@ O ideal após iniciar o script, é deixar ele funcionando até rodar todos os co
 
 ## 
 
-Caso ele não consiga mandar a mensagem por algum motivo, ele escreve em um texto csv com o nome do contato que ele não conseguiu além do número de telefone.
+Caso ele não consiga mandar a mensagem por algum motivo, ele escreve em um arquivo csv com o nome do contato que ele não conseguiu além do número de telefone.
