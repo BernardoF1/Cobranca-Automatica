@@ -6,7 +6,7 @@ Como o próprio nome já diz, este programa foi feito para otimizar o tempo daqu
 
 Para instalar o projeto, você precisa de pelo menos do python 3.13 instalado na sua máquina.
 Agora no terminal:
-``` cmd
+``` bash
 # Clone o repositorio
 git clone https://github.com/BernardoF1/Cobranca-Automatica.git
 
